@@ -1,0 +1,26 @@
+{
+  "name": "bookkeeping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashkumar25274/bookkeeping.git"
+  },
+  "author": "akash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashkumar25274/bookkeeping/issues"
+  },
+  "homepage": "https://github.com/akashkumar25274/bookkeeping#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7",
+    "multer": "^1.3.0",
+    "redis": "^2.8.0"
+  }
+}
